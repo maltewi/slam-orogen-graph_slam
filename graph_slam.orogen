@@ -6,6 +6,7 @@ using_library 'graph_slam'
 using_library 'vizkit3d'
 using_library 'g2o'
 using_library 'velodyne_lidar'
+using_library 'base-logging'
 
 import_types_from 'base'
 import_types_from 'stereo'
